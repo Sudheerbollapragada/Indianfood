@@ -23,14 +23,18 @@ This is a web based application developed for food related telugu based website 
 
 
 
+![Screenshot 2022-10-02 132332](https://user-images.githubusercontent.com/109864921/193443965-4e71be8a-6e02-4663-b20d-2436cc3d52da.png)
 
    
-
-### About Us -
-
-
+![Screenshot 2022-10-02 132052](https://user-images.githubusercontent.com/109864921/193443979-4fdadc00-7875-45a6-8308-b066b0193436.png)
+ -![Screenshot 2022-10-02 132006](https://user-images.githubusercontent.com/109864921/193443982-4fcb13e9-137f-413a-a508-b8a64697be82.png)
 
 
+
+![Screenshot 2022-10-02 132249](https://user-images.githubusercontent.com/109864921/193444035-5a9d98ff-a073-4fee-b957-fe399c419277.png)
+
+![Screenshot 2022-10-02 132141](https://user-images.githubusercontent.com/109864921/193444030-030acd88-b797-462f-af8d-2059628d9f34.png)
+### About Us
 
 
 ### Privacy policy -
@@ -44,6 +48,3 @@ This is a web based application developed for food related telugu based website 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
-- CSS
-- Bootstrap
-- JavaScript
